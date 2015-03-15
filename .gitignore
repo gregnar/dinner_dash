@@ -17,6 +17,7 @@
 .DS_store
 /public/system/*
 /public/assets
+.env
 
 # Ignore SimpleCov coverage directory.
 coverage
